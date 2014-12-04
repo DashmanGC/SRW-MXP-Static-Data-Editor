@@ -108,7 +108,7 @@ public class UserInterfaceSDE extends javax.swing.JFrame {
         checkSJIS = new javax.swing.JCheckBoxMenuItem();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("SRW MXP Static Data Editor v1.0 by Dashman");
+        setTitle("SRW MXP Static Data Editor v1.0a by Dashman");
         setResizable(false);
 
         scrollStrings.setPreferredSize(new java.awt.Dimension(825, 433));
